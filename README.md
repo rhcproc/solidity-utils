@@ -30,8 +30,8 @@ If you don't have forge installed:
 4. then forge should be intalled
 
 ```
-$ git clone https://github.com/rhcproc/forge-openzeppelin
-$ cd forge-openzeppelin
+$ git clone https://github.com/rhcproc/solidity-merkle-proof-tutorial
+$ cd solidity-merkle-proof-tutorial
 $ forge build
 $ forge test
 ```
